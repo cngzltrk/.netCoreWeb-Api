@@ -1,7 +1,10 @@
 # .netCoreWeb-Api
 Kredi hesaplama uygulaması </br>
-Ay ve tutar girilerek faiz hesabını yapan web uygulaması
-kullanıcı eğer üye olmuşsa ve vib(Zengin müşteri $$) üye ise database de bulunan veriye göre faiz işlemi yapılan bir uygulamadır</br>
+Ay ve tutar girilerek faiz hesabını yapan web uygulaması<br>
+- Faiz veri tabınından çekilecek<br>
+- Faiz kategorileri  konut ,taşıt, ihtiyaç<br>
+- Kullanıcı eğer giriş yaparsa ve vib(Zengin müşteri $) kullanıcıysa ona atanan faiz oranı ile işlemler oluşacak.<br>
+
 
 ![image](https://github.com/cngzltrk95/.netCoreWeb-Api/blob/master/images/mvc-api.PNG)
 
