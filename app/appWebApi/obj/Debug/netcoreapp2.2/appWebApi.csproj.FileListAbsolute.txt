@@ -1,0 +1,14 @@
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\bin\Debug\netcoreapp2.2\appWebApi.deps.json
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\bin\Debug\netcoreapp2.2\appWebApi.runtimeconfig.json
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\bin\Debug\netcoreapp2.2\appWebApi.runtimeconfig.dev.json
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\bin\Debug\netcoreapp2.2\appWebApi.dll
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\bin\Debug\netcoreapp2.2\appWebApi.pdb
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.csprojAssemblyReference.cache
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.RazorAssemblyInfo.cache
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.RazorAssemblyInfo.cs
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.AssemblyInfoInputs.cache
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.AssemblyInfo.cs
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.dll
+C:\Users\Cengoo\Desktop\Kredi Hesaplama\app\appWebApi\obj\Debug\netcoreapp2.2\appWebApi.pdb
