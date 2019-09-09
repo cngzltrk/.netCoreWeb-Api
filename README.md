@@ -16,3 +16,5 @@ PostgreSql
 Ajax
 Bootstrap4.0
 
+
+![image](https://github.com/cngzltrk95/.netCoreWeb-Api/blob/master/Goruntu.PNG)
