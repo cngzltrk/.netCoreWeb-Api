@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBase", "DataBase\DataBase.csproj", "{10B93E45-B630-4CB6-B5E5-DD8DE652D537}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "appMvc", "appMvc\appMvc.csproj", "{2EF8C9E6-8A36-4345-85F0-41A19E049346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculation", "Calculation\Calculation.csproj", "{AF352A11-9D09-4FD4-BB73-AF01B65E0BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B93E45-B630-4CB6-B5E5-DD8DE652D537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B93E45-B630-4CB6-B5E5-DD8DE652D537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B93E45-B630-4CB6-B5E5-DD8DE652D537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B93E45-B630-4CB6-B5E5-DD8DE652D537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF8C9E6-8A36-4345-85F0-41A19E049346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF8C9E6-8A36-4345-85F0-41A19E049346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF8C9E6-8A36-4345-85F0-41A19E049346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF8C9E6-8A36-4345-85F0-41A19E049346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF352A11-9D09-4FD4-BB73-AF01B65E0BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF352A11-9D09-4FD4-BB73-AF01B65E0BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF352A11-9D09-4FD4-BB73-AF01B65E0BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF352A11-9D09-4FD4-BB73-AF01B65E0BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1A4233A-76DE-4607-8413-3A27B32611F2}
+	EndGlobalSection
+EndGlobal

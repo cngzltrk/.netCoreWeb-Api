@@ -1,0 +1,134 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <!--Ortalamak için-->
+    <div class="col-md-3">
+
+    </div>
+    <!--Başlık-->
+    <div class="card col-md-6 yukardan">
+        <form id="idForm">
+            <input type="hidden" name="tür" id="tur" value="ihtiyac" />
+            <div class="row">
+                <div class="col">
+                    <h2 class="blockquote-footer">
+                        @{
+                            if (ViewBag.User != null)
+                            {
+                                <span id="kullanici" class="text-dark">Hoşgeldiniz @ViewBag.User</span>
+                            }
+                        }
+                    </h2>
+                </div>
+                <div class="col">
+                    <ul class="nav nav-pills justify-content-end">
+                        <li class="nav-item">
+                            <a class="nav-link" onclick="ih()" data-toggle="pill" href="#home">İhtiyaç</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="pill" onclick="ko()" href="#">Konut</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="pill" onclick="ta()" href="#">Taşıt</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane container active" id="home">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="form-check-inline">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" checked="checked" onclick="kredi()" name="krediAylık" value="kredi">Kredi Tutarı
+                                    </label>
+                                </div>
+                                <div class="form-check-inline">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" onclick="ayKredi()" name="krediAylık" value="aylık">Aylık Kredi Tutarı
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="row " style="margin:5px">
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="tutar" id="tutar" placeholder="Kredi Giriniz">
+                                    <input type="text" class="form-control" name="ay" id="ay" placeholder="Ay Giriniz">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <button type="submit" class="btn btn-primary">Hesapla</button>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="col text-center">
+                                    <span class="text-danger"> Aylık </span>
+                                    <hr />
+                                    <span id="ayy">00</span>
+                                </div>
+                                <div class="col text-center">
+                                    <span class="text-danger">Toplam </span>
+                                    <hr />
+                                    <span id="topp">00</span>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col text-center">
+                                    <span class="text-danger">Faiz</span>
+                                    <hr />
+                                    <span id="faiz">00</span>
+
+                                </div>
+
+
+                            </div>
+                            <div class="row">
+                                <button class="text-muted" onclick="show()">Daha Fazla bilgi</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+
+        <div id="assd">
+            <table id="records_table" class="table table-sm">
+
+                <tr class=" text-muted" style="font-size:small">
+                    <th>Taksit No</th>
+                    <th>Taksit Tutarı</th>
+                    <th>Ödenen Faiz Tutarı</th>
+                    <th>Ödenen Ana para tutarı</th>
+                    <th>Kalan Ana para borcu</th>
+                </tr>
+
+
+            </table>
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

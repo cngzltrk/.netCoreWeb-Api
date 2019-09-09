@@ -1,0 +1,14 @@
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\bin\Debug\netcoreapp2.2\DataBase.deps.json
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\bin\Debug\netcoreapp2.2\DataBase.runtimeconfig.json
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\bin\Debug\netcoreapp2.2\DataBase.runtimeconfig.dev.json
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\bin\Debug\netcoreapp2.2\DataBase.dll
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.RazorAssemblyInfo.cache
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.RazorAssemblyInfo.cs
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.AssemblyInfoInputs.cache
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.AssemblyInfo.cs
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.RazorTargetAssemblyInfo.cache
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\bin\Debug\netcoreapp2.2\DataBase.pdb
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.dll
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.pdb
+C:\Users\Cengoo\source\repos\WebApplication\DataBase\obj\Debug\netcoreapp2.2\DataBase.csprojAssemblyReference.cache

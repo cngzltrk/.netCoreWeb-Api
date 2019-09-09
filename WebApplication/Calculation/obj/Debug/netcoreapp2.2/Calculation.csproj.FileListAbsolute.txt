@@ -1,0 +1,11 @@
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\obj\Debug\netcoreapp2.2\Calculation.csprojAssemblyReference.cache
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\obj\Debug\netcoreapp2.2\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\obj\Debug\netcoreapp2.2\Calculation.AssemblyInfoInputs.cache
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\obj\Debug\netcoreapp2.2\Calculation.AssemblyInfo.cs
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\bin\Debug\netcoreapp2.2\Calculation.deps.json
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\bin\Debug\netcoreapp2.2\Calculation.runtimeconfig.json
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\bin\Debug\netcoreapp2.2\Calculation.runtimeconfig.dev.json
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\bin\Debug\netcoreapp2.2\Calculation.dll
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\bin\Debug\netcoreapp2.2\Calculation.pdb
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\obj\Debug\netcoreapp2.2\Calculation.dll
+C:\Users\Cengoo\source\repos\WebApplication\Calculation\obj\Debug\netcoreapp2.2\Calculation.pdb

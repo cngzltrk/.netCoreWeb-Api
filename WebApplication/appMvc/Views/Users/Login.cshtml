@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+    <div class="container login-container">
+        <div class="row">
+            <div class="col-3"></div>
+            <div class="col-md-6 login-form-1">
+                <h3>Login </h3>
+                @*@{
+                    if (@ViewBag["Hata"] != null)
+                    {
+                        @ViewBag["Hata"]
+                    }
+
+                }*@
+
+            <form method="post" action="/Users/Login">
+                <div class="form-group">
+                    <input type="text" class="form-control" name="email" placeholder="Your Email *" value="" />
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control" name="pass" placeholder="Your Password *" value="" />
+                </div>
+                <div class="form-group">
+                    <input type="submit" class="btnSubmit" value="Login" />
+                </div>
+                <div class="form-group">
+                    <a href="#" class="ForgetPwd">Forget Password?</a>
+                </div>
+                @Html.ValidationSummary()
+                
+            </form>
+
+            </div>
+        </div>
+    </div>

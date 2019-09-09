@@ -1,0 +1,52 @@
+﻿@model appMvc.Models.user
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.userName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.userLastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.pass)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+       
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => model.userName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.userLastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => model.pass)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+
+    </tbody>
+</table>
