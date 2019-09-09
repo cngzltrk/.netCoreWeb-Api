@@ -10,11 +10,11 @@ Ay ve tutar girilerek faiz hesabını yapan web uygulaması<br>
 
 kullanılan teknolojiler</br>
 
-.Net Core 2.2 MVC
-.Net Core 2.2 wepApi
-PostgreSql
-Ajax
-Bootstrap4.0
+.Net Core 2.2 MVC</br>
+.Net Core 2.2 wepApi</br>
+PostgreSql</br>
+Ajax</br>
+Bootstrap4.0</br>
 
 
 ![image](https://github.com/cngzltrk95/.netCoreWeb-Api/blob/master/Goruntu.PNG)
