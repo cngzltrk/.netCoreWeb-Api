@@ -11,7 +11,7 @@ Ay ve tutar girilerek faiz hesabını yapan web uygulaması<br>
 kullanılan teknolojiler</br>
 
 .Net Core 2.2 MVC</br>
-.Net Core 2.2 wepApi</br>
+.Net Core 2.2 webApi</br>
 PostgreSql</br>
 Ajax</br>
 Bootstrap4.0</br>
